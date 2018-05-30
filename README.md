@@ -1,12 +1,17 @@
 # Vanilla-DOM
 
-
----
-Title: 'Vanilla' DOM commands<br>
-Type: Lab <br>
-Duration: 45 - 60 mins<br>
-Creator: Alex, Shahzad, Daniel <br>
-Topics: 'Vanilla' DOM intro<br>
+Subjects: 
+- Find / retrieve an element
+- Alter an element's HTML
+- Create a new element
+- Append an element to the body
+- Append an element to a retrieved element
+- Create an element and give it an attribute before appending it
+- Create an element and give it an id
+- Get a list of the classes given to an element
+- Add a class to an element
+- See if a class has been added to an element
+- Remove a class from an element
 
 ## JS DOM commands
 
